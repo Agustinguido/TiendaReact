@@ -9,8 +9,6 @@ _Proyecto final Comisión 41100 Coderhouse_
 
 ## Imagenes 📸
 
-### Normal Mode 🌝
-
 ![alt Text](https://github.com/Agustinguido/TiendaReact/blob/master/doc/Inicio.PNG)
 
 ![alt Text](https://github.com/Agustinguido/TiendaReact/blob/master/doc/Carrito.PNG)
