@@ -1,0 +1,153 @@
+.cardProducto {
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+}
+
+.cardProductoDetail {
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.cardProductoDetailDark{
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+    color: rgb(2, 2, 84);
+    
+}
+
+.cardProductoDark{
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+    color: rgb(2, 2, 84);
+    
+}
+
+.contenedorCardsProductos{
+    margin-top:120px;
+    justify-content: center;
+}
+
+.itemDetail{
+    width: 20rem;
+    margin-top: 150px;
+}
+
+.espaciadoNav{
+    margin-top: 130px;
+}
+
+.formCheckout{
+    margin-left: 30%;
+    margin-bottom: 30%;
+    margin-right: 30%;
+}
+ 
+.contadorCarrito{
+    position: relative;
+    left: 20%;
+}
+
+.cardBodyDark{
+    background-color: white;
+    text-align: center;
+    color: rgb(2, 2, 84);
+}
+
+.darkMode{
+    color: white;
+    background-color: black;
+}
+
+.carritoVacio{
+
+    text-align: center;
+}
+
+.cartList{
+
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.cartItemDarkColor{
+    color: rgb(2, 2, 84); 
+}
+
+.colorMensajeCheckout{
+    color: red;
+}
+
+.cardCart {
+    margin: 30px;
+}
+
+.botonesCarrito{
+    margin: 3px;
+}
+
+
+.botonPrincipalNavBar{
+    font-size: 2rem;
+}
+
+.botonesNavBar {
+	background-color:transparent;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:Arial;
+	text-decoration:none;
+    border: none;
+    font-size: 1.5rem;
+    font-family: var(--bs-body-font-family);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.botonesNavBar:hover {
+    color: black;
+}
+.botonesNavBar:active {
+	position:relative;
+	top:1px;
+}
+
+
+.imagenCard{
+    width: 250px;
+    height: 250px;
+}
+
+.cardBody{
+    background-color: white;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+
+.botonesMasMenosCantidad{
+    margin: 2px;
+}
+
+.botonMas{
+    margin-left: 20px;
+
+}
+
+.botonMenos{
+    margin-right: 20px;
+
+}
+
+.estiloMensaje{
+    margin-top: 80px;
+}
